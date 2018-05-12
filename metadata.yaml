@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9243
     wikipedia: http://en.wikipedia.org/wiki/Mark_Lemon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20352#The-Jest-BookThe-Choicest-Anecdotes-and-Sayings
 gutenberg_bookshelf: Humor
 gutenberg_issued: '2007-01-13'
 gutenberg_type: Text
